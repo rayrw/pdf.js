@@ -1,0 +1,21 @@
+{
+  "name": "pdf.js",
+  "version": "1.0.0",
+  "description": "",
+  "main": "build/pdf.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rayrw/pdf.js.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rayrw/pdf.js/issues"
+  },
+  "homepage": "https://github.com/rayrw/pdf.js#readme"
+}
